@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mikejgarcia@gmail.com...
 - 👀 Check the "Python" folder for various python musings
+- 🤖 Created OpenClaw Agent and invited to Discord Chat
 
 <!---
 mikegyver99/mikegyver99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
